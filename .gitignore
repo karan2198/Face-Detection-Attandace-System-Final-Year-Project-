@@ -1,0 +1,14 @@
+# Ignore datasets and images
+dataset/
+cropped_dataset/
+cropped_faces/
+final_dataset/
+resized_faces/
+augmented_faces/
+
+# Ignore environment and temporary files
+env/
+*.csv
+*.pkl
+.ipynb_checkpoints/
+
